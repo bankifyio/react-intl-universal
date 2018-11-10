@@ -27,10 +27,8 @@
   "author": "chiawei.tcw@alibaba-inc.com",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "console-polyfill": "^0.3.0",
     "cookie": "^0.3.1",
     "escape-html": "^1.0.3",
-    "intl": "^1.2.5",
     "intl-messageformat": "^2.2.0",
     "invariant": "^2.2.2",
     "is-electron": "^2.1.0",

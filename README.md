@@ -1,8 +1,7 @@
-## Work at Alibaba 加入我们
-[Join us as a frontend engineer in Alibaba group!](https://github.com/alibaba/react-intl-universal/issues/41)
-
 # react-intl-universal
-[react-intl-universal](https://github.com/alibaba/react-intl-universal) is a React internationalization package developed by [Alibaba Group](http://www.alibabagroup.com).
+This is the forked version of 
+[react-intl-universal](https://github.com/alibaba/react-intl-universal) which
+remove the polyfill for console.log and intl api
 
 [![npm](https://img.shields.io/npm/dt/react-intl-universal.svg)](https://www.npmjs.com/package/react-intl-universal) [![npm](https://img.shields.io/npm/v/react-intl-universal.svg)](https://www.npmjs.com/package/react-intl-universal) [![npm](https://img.shields.io/npm/l/react-intl-universal.svg)](https://github.com/alibaba/react-intl-universal/blob/master/LICENSE.md)
 

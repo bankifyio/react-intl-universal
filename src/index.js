@@ -1,4 +1,3 @@
-import IntlPolyfill from "intl";
 import React from "react";
 import IntlMessageFormat from "intl-messageformat";
 import escapeHtml from "escape-html";
@@ -6,7 +5,6 @@ import cookie from "cookie";
 import queryParser from "querystring";
 import load from "load-script";
 import invariant from "invariant";
-import "console-polyfill";
 import * as constants from "./constants";
 import merge from "lodash.merge";
 import isElectron from 'is-electron';
