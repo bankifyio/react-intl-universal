@@ -77,13 +77,13 @@ class App {
 ```
 Furthermore, your React.Component's properties are not inherited in subclass since component is injected by [react-intl](https://github.com/yahoo/react-intl). 
 
-Due to the problem above, we create [react-intl-universal](https://www.npmjs.com/package/react-intl-universal) to internationalize React app using simple but powerful API.
+Due to the problem above, we create [@bankify/react-intl-universal](https://www.npmjs.com/package/@bankify/react-intl-universal) to internationalize React app using simple but powerful API.
 
 ## Get Started
 
 ### Install
 ```sh
-npm install react-intl-universal --save
+yarn add @bankify/react-intl-universal
 ```
 
 ### Initialize
